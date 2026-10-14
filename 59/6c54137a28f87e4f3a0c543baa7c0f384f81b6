@@ -1,0 +1,23 @@
+packages/back-end/src/services/features.ts
+  s_db486e537c7a9e::t_eb074249f4e8fe 7,96,3071-3081,3087-3088,3091
+packages/back-end/test/api/features/ruleRoundTrip.test.ts
+  s_db486e537c7a9e::t_6528a578092802 81-117
+packages/front-end/components/Features/RuleModal/index.tsx
+  s_db486e537c7a9e::t_48874158b8e345 1571-1581,1619-1621
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "596c54137a28f87e4f3a0c543baa7c0f384f81b6",
+  "prompts": {},
+  "sessions": {
+    "s_db486e537c7a9e": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "c070b3c2-ee5e-4d8e-9ee0-f9abceb1f2f2",
+        "model": "unknown"
+      },
+      "human_author": "David Táboas <david.taboas.glez@gmail.com>"
+    }
+  }
+}
